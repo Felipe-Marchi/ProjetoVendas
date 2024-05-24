@@ -10,7 +10,7 @@ Este projeto foi desenvolvido na faculdade de Análise e Desenvolvimento de Sist
 - **Cadastro de Pedido:** Realização de vendas selecionando clientes e produtos, com verificação de estoque e cálculo do preço total.
 - **Geração de Relatórios em PDF:** Relatórios de pedidos por cliente e intervalos de datas.
 
-- ## Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Java**: Linguagem de programação principal.
 - **NetBeans IDE**: Ambiente de desenvolvimento integrado.
