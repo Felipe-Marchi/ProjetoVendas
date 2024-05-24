@@ -18,8 +18,5 @@ Este projeto foi desenvolvido na faculdade de Análise e Desenvolvimento de Sist
 - **Java Swing**: Para criação das interfaces gráficas.
 - **JasperReports**: Para geração de relatórios em PDF.
 
-## Capturas de Tela
 
-### Tela de Login
-![Tela de Login](src/imagens/listagem-clientes.png)
 
