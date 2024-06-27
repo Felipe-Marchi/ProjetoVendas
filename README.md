@@ -17,15 +17,14 @@ Este projeto foi desenvolvido na faculdade de Análise e Desenvolvimento de Sist
 - **PostgreSQL**: Banco de dados relacional.
 - **Java Swing**: Para criação das interfaces gráficas.
 - **JasperReports**: Para geração de relatórios em PDF.
-- 
+
 ## Imagens do Projeto
 
 ### Cadastro de Clientes
-![Cadastro de Clientes](src/imagens/cadastro-clientes.png)
-
+<img src="src/imagens/cadastro-clientes.png" alt=Cadastro de Clientes" width="400">
 
 ### Listagem de Clientes
-![Listagem de Clientes](src/imagens/listagem-clientes.png)
+<img src="src/imagens/listagem-clientes.png" alt="Listagem de Clientes" width="400">
 
 ### Cadastro de Pedido
-![Cadastro de Pedido](src/imagens/cadastro-pedido.png)
+<img src="src/imagens/cadastro-pedido.png" alt="Cadastro de Pedido" width="400">
