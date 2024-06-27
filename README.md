@@ -21,10 +21,10 @@ Este projeto foi desenvolvido na faculdade de Análise e Desenvolvimento de Sist
 ## Imagens do Projeto
 
 ### Cadastro de Clientes
-<img src="src/imagens/cadastro-clientes.png" alt=Cadastro de Clientes" width="400">
+<img src="src/imagens/cadastro-clientes.png" alt="Cadastro de Clientes" width="600">
 
 ### Listagem de Clientes
-<img src="src/imagens/listagem-clientes.png" alt="Listagem de Clientes" width="400">
+<img src="src/imagens/listagem-clientes.png" alt="Listagem de Clientes" width="600">
 
 ### Cadastro de Pedido
-<img src="src/imagens/cadastro-pedido.png" alt="Cadastro de Pedido" width="400">
+<img src="src/imagens/cadastro-pedido.png" alt="Cadastro de Pedido" width="600">
