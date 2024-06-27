@@ -21,11 +21,11 @@ Este projeto foi desenvolvido na faculdade de Análise e Desenvolvimento de Sist
 ## Imagens do Projeto
 
 ### Cadastro de Clientes
-![Cadastro de Clientes](src/imagens/cadastro-cliente.png)
+![Cadastro de Clientes](src/imagens/cadastro-clientes.png)
 
 
 ### Listagem de Clientes
-![Listagem de Clientes](src/imagens/listagem-cliente.png)
+![Listagem de Clientes](src/imagens/listagem-clientes.png)
 
 ### Cadastro de Pedido
 ![Cadastro de Pedido](src/imagens/cadastro-pedido.png)
