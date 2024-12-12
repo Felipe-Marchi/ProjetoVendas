@@ -1,6 +1,6 @@
 # Projeto de Vendas
 
-Este projeto foi desenvolvido na faculdade de Análise e Desenvolvimento de Sistemas, com o objetivo de simular um sistema genérico de vendas de mercadorias. A aplicação foi criada utilizando Java e NetBeans, com PostgreSQL como banco de dados, e inclui funcionalidades para cadastro de endereços, clientes, produtos e pedidos, além de geração de relatórios em PDF usando JasperReports.
+Este projeto foi desenvolvido na faculdade de Análise e Desenvolvimento de Sistemas, com o objetivo de simular um sistema genérico de vendas de mercadorias. A aplicação foi criada utilizando Java e PostgreSQL como banco de dados, inclui funcionalidades para cadastro de endereços, clientes, produtos e pedidos, além de geração de relatórios em PDF usando JasperReports.
 
 ## Funcionalidades Principais
 
